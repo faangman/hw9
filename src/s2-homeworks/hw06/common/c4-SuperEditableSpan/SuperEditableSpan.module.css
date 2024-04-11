@@ -1,0 +1,25 @@
+.spanBlock {
+}
+
+.span {
+    color: #0080FF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.5px;
+    text-align: left;
+}
+
+.input {
+    outline: none;
+    border: 2px solid #dcdada;
+    border-radius: 3px;
+    width: 276px;
+    height: 36px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.5px;
+    text-align: left;
+}
+
+.pen {
+}
