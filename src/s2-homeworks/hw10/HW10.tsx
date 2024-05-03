@@ -23,7 +23,7 @@ const HW10 = () => {
         // setTimeout
         setTimeout(() => {
             dispatch(loadingAC(false))
-        }, 15000)
+        }, 1500)
     }
 
     return (
