@@ -2,7 +2,12 @@
 }
 
 .wrapper {
+    display: flex;
+    gap: 20px;
 }
 
 .number {
+    display: block;
+    height: 100%;
+    justify-content: center;
 }
