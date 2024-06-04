@@ -62,6 +62,7 @@ const HW13 = () => {
                         setInfo(e.message)
                         setText(e.name)
                     }
+
                 }
                 // дописать
 
